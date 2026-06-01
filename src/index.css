@@ -1,0 +1,6 @@
+@import "@visuallyjs/browser-ui/css/visuallyjs.css";
+@import "scatter-bubble-chart.css";
+
+body * {
+    font-family:sans-serif;
+}
